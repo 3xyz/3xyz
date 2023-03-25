@@ -1,2 +1,2 @@
 # 🧐 Find Me
-💻 Telegram: @go_to_sky
+💻 **Telegram:** `@go_to_sky`
